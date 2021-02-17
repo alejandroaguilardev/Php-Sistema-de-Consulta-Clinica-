@@ -1,0 +1,54 @@
+.table-full{
+	width: 100%!important;
+}
+.td-acciones a{
+	padding: -1rem 0!important;
+	margin:-1rem 0!important;
+
+}
+.td-acciones td{
+    	width: 1%;
+}
+.img-table{
+	max-width: 8rem;
+	border-radius: 2rem;
+}
+.img-users{
+	max-width: 100%;
+}
+.img-products{
+	width: 11rem;
+	height: 11rem;
+	border:1px solid #bbb;
+}
+
+
+.modal-title{
+	color: #fff;
+}
+
+.new-modal{
+	background: #169F85;
+}
+.update-modal{
+	background: #117a8b;
+}
+.delete-modal{
+	background: #dc3545;
+}
+.alert-danger{
+	background: #dc3545;
+}
+
+.radio input{
+
+}
+
+.radio input{
+ font-size: .5rem;
+ display:inline!important;
+}
+.radio label{
+ font-weight: bold;
+ display:inline!important;
+}
